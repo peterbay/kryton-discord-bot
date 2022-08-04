@@ -1,0 +1,7 @@
+
+discord:
+  token: YOUR-TOKEN-HERE
+
+bots:
+  whitelist:
+    - kryton
